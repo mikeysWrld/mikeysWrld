@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">Math Genius</h3>
+<h1 align="center">Hello 👋, I'm Michael</h1>
+<h3 align="center">AKA - 5'9 Aggressive Asian</h3>
 
-- 📫 How to reach me **himimi15@gmail.com**
+- 📫 How to reach me **aggressiveasian@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
