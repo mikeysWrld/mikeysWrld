@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Michael, AKA 5'9 Aggressive Asian</h2>
+<h2 align="left">Hi 👋! My name is Michael</h2>
 
 ###
 
