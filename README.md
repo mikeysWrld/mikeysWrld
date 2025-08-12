@@ -1,50 +1,43 @@
-<h2 align="left">Hi 👋! My name is Michael</h2>
+# 
+<p align="center">
+  <img src="https://img.shields.io/badge/Deported_Tech_Bro-🚀-brightgreen?style=for-the-badge&logo=console" alt="Deported Tech Bro" />
+</p>
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRkazN1em5kc3phOTNkeTA3dXZwdGdyejVmNzBhMWo4ZmNpbW0zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3YGUDYnwCC5gWmQ/giphy.gif"  />
+<!-- Typing SVG (Readme Typing SVG) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=22&duration=3000&pause=1000&color=F7AB2C&width=720&lines=Hi+there!;I'm+Michael+(mikeysWrld);I+build+braindamaged+stuff+and+enjoy+getting+baked" alt="Typing SVG" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="30" alt="sketch logo"  />
-</div>
+## 👋 About Me
+Hi — I'm **Michael** (aka `mikeysWrld`).  
+I like building small, focused projects, exploring retro UX, and shipping things that are fun and useful.
 
-###
+- 🔭 Currently working on: *personal projects & repo polish*
+- 🌱 Learning: better UX, infra automation, and vision techniques
+- ⚡ Fun: retro terminal art, pixel fonts, and tiny animations
 
-<div align="left">
-  <a href="http://www.youtube.com/@MikeyTalksAboutStuff" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/nikemike3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="himimi15@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/michaellaw12/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+## 🛠️ Tech & Tools
+<p align="center">
+  <!-- Shields.io badges -->
+  <img alt="JavaScript" src="https://img.shields.io/badge/Tech-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="Python" src="https://img.shields.io/badge/Tech-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/Tech-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Infra-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Postgres" src="https://img.shields.io/badge/DB-Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/himimi15/himimi15/output/snake.svg" alt="Snake animation" />
+## 📫 Find me / Contact
+<p align="center">
+  <!-- Shields social links (edit URLs to your profiles) -->
+  <a href="https://www.linkedin.com/in/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
-###
+---
