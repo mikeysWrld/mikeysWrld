@@ -5,7 +5,7 @@
 
 <!-- Typing SVG (Readme Typing SVG) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=22&duration=3000&pause=1000&color=F7AB2C&width=720&lines=Hi+there!;I'm+Michael+(mikeysWrld);I+build+braindamaged+stuff+and+enjoy+getting+baked" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=22&duration=5000&pause=2000&color=F7AB2C&width=720&lines=Hi+there!+I'm+Michael+(mikeysWrld);I+build+braindamaged+stuff+and+enjoy+getting+baked.;Hi+there!+I'm+Michael+(mikeysWrld);I+build+braindamaged+stuff+and+enjoy+getting+baked." alt="Typing SVG" />
 </p>
 
 ---
