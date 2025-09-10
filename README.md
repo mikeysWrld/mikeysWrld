@@ -14,7 +14,7 @@
 Hi — I'm **Michael** (aka `mikeysWrld`).  
 I like building small, focused projects, exploring retro UX, and shipping things that are fun and useful.
 
-- 🔭 Currently working on: *personal projects & repo polish*
+- 🔭 Currently working on: *the next sports app that will dominate the market*
 - 🌱 Learning: better UX, infra automation, and vision techniques
 - ⚡ Fun: retro terminal art, pixel fonts, and tiny animations
 
